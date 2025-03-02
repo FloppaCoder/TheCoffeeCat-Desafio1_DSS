@@ -3,7 +3,7 @@
 
         <li class="flex flex-row items-center font-bold text-2xl"><img src="img/logoSinFondo.png" alt="loguito"
                 class="w-[3.5rem]">
-            Floppa Café
+            TheCoffeeCat
         </li>
 
         <div class=" flex flex-row items-center  gap-1">
