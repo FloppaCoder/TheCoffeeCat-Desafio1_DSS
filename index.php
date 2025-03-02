@@ -1,10 +1,9 @@
 <?php require('header.php'); ?>
 
 <body>
-    <div id="pagewrap" class="flex flex-col min-h-screen">
+    <div class="flex flex-col min-h-screen">
         <!-- #header y #nav -->
         <?php require('nav.php'); ?>
-        <!-- /#header y #nav -->
 
         <!-- #content y #sidebar -->
         <div class="flex flex-col lg:flex-row flex-1">
@@ -18,13 +17,10 @@
                 <?php require('sidebar.php'); ?>
             </aside>
         </div>
-        <!-- /#content y #sidebar -->
 
         <!-- #footer -->
         <?php require('footer.php'); ?>
-        <!-- /#footer -->
     </div>
-    <!-- /#pagewrap -->
 </body>
 
 </html>
